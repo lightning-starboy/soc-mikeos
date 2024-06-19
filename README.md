@@ -1,2 +1,2 @@
 # soc-mikeos
-installation and run
+installation and run mikeOS
